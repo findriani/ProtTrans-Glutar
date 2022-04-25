@@ -16,6 +16,6 @@ Dataset folder includes all features extracted using various encoding methods ex
 - ProtXLNet
 
 Code folder includes:
-- Jupyter notebook demo to use our model for classification https://github.com/findriani/ProtTrans-Glutar/blob/main/codes/ProtTrans-Glutar.ipynb
+- Jupyter notebook for feature extraction and using ProtTrans-Glutar model for classification https://github.com/findriani/ProtTrans-Glutar/blob/main/codes/ProtTrans-Glutar.ipynb
 - pretrained model using whole dataset: ProtTrans-Glutar.full.model
 - pretrained model using only training data: ProtTrans-Glutar.train.model
